@@ -11,4 +11,4 @@ Proyecto final del módulo de SQL con el fin de poner en práctica todos los con
 3. Realización y comprobación de las consultas.
 
 ## 📋 Esquema de la base de datos
-<img src="https://i.imgur.com/XPP2H3y.png" href="https://i.imgur.com/XPP2H3y.png" alt="Esquema BBDD" width="80%">
+<img src="https://i.imgur.com/XPP2H3y.png" href="https://i.imgur.com/XPP2H3y.png" alt="Esquema BBDD" width="100%">
